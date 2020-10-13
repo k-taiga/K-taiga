@@ -1,4 +1,11 @@
-### Hi there 👋
+### Thank you for visiting my page. 👋
+
+<a href="https://github.com/bake0937/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-taiga" />
+</a>
+<a href="https://github.com/bake0937/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=K-taiga&count_private=true&show_icons=true" />
+</a>
 
 <!--
 **K-taiga/K-taiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
