@@ -1,10 +1,10 @@
 ### Thank you for visiting my page. 👋
 
 <a href="https://github.com/K-taiga/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K-taiga" />
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=K-taiga" />
 </a>
 <a href="https://github.com/K-taiga/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=K-taiga&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=K-taiga&count_private=true&show_icons=true" />
 </a>
 
 <!--
